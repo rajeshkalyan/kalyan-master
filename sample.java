@@ -7,4 +7,8 @@ public class sample{
  public void calculateEmployeeSalary(){
       system.out.println("Hello am in method calculateEmployeeSalary()");
  }
+ 
+  public void calculateMonthlySalary(){
+      system.out.println("Hello am in method calculateMonthlySalary()");
+ }
 }
