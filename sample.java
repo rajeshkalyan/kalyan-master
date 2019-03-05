@@ -3,6 +3,7 @@ public class sample{
  private ename String;
  private salary Double;
  private country String;
+ private dummy2Variable String;
  
  public void calculateEmployeeSalary(){
       system.out.println("Hello am in method calculateEmployeeSalary()");
